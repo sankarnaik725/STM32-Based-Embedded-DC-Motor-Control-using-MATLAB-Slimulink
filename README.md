@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DC Motor Characterisation and Closed-Loop Speed Control (STM32 + Simulink)
 
 Characterisation and closed-loop speed control of a 12 V geared DC motor, using an **STM32 Nucleo-F446RE** programmed from **MATLAB/Simulink** and run live with **Monitor & Tune**.
@@ -199,3 +200,6 @@ Adjust to match your files.
 ## License
 
 Choose a licence (for example MIT) and add a `LICENSE` file.
+=======
+# STM32-Based-Embedded-DC-Motor-Control-using-MATLAB-Slimulink
+>>>>>>> 2b87694f70409e3a5e076ec4df18483cf543b9a8
