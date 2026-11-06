@@ -1,0 +1,7 @@
+config load "C:\Users\sanka\Documents\emobilitylab\closed_loop\closed_loop_pi\closed_loop_pi.ioc"
+project setCustomFWPath "C:\Users\sanka\STM32Cube\Repository\STM32Cube_FW_F4_V1.26.2\STM32Cube_FW_F4_V1.28.3"
+
+config save "C:\Users\sanka\Documents\emobilitylab\closed_loop\closed_loop_pi\closed_loop_pi.ioc"
+project generate 
+
+exit wait

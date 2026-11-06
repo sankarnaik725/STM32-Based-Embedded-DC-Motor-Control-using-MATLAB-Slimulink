@@ -1,0 +1,5 @@
+config load "C:\Users\sanka\Documents\emobilitylab\cal_encoder_test\cal_closed\task3\task3.ioc"
+config save C:\Users\sanka\Documents\emobilitylab\cal_encoder_test\cal_closed\task3\task3.ioc
+
+
+exit wait
